@@ -1,7 +1,7 @@
 ![Software Developer](blob:https://www.facebook.com/6ab2dd4c-293f-43bd-a4be-8299ca58c836)
 ### Hi there 👋, I am Sinha A.
 
-Hello! I’m Sinha, an aspiring programmer and cybersecurity specialist with a passion for technology and a commitment to learning. Currently, I am honing my programming skills in languages such as C, C++, Python, My SQL, Kali Linux ,Metasploit, while exploring the fascinating world of cybersecurity.
+Hello! I’m Sinha, an aspiring programmer,Customer Care Executive and cybersecurity specialist with a passion for technology and a commitment to learning. Currently, I am honing my programming skills in languages such as C, C++, Python, My SQL, Kali Linux ,Metasploit, while exploring the fascinating world of cybersecurity.
 
 As a beginner, I am eager to apply my knowledge and grow in areas like ethical hacking, network security, and risk assessment. I believe that a solid foundation in programming is essential for understanding and addressing cybersecurity challenges, and I am dedicated to merging these two fields effectively.
 
