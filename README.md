@@ -1,6 +1,5 @@
 ![Software Developer](blob:https://www.facebook.com/6ab2dd4c-293f-43bd-a4be-8299ca58c836)
 ### Hi there 👋, I am Sinha A.
-#### Software Developer
 
 Hello! I’m Sinha, an aspiring programmer and cybersecurity specialist with a passion for technology and a commitment to learning. Currently, I am honing my programming skills in languages such as C, C++, Python, My SQL, Kali Linux ,Metasploit, while exploring the fascinating world of cybersecurity.
 
